@@ -1,0 +1,23 @@
+{
+  "name": "spiritual-timers",
+  "version": "1.0.0",
+  "description": "An extension of Javascript timers which always runs with actual speed inside browser regardless of whether the browser tab is active or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inderps/spiritual-timers.git"
+  },
+  "keywords": [
+    "settimeout",
+    "setinterval"
+  ],
+  "author": "Inderpal Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inderps/spiritual-timers/issues"
+  },
+  "homepage": "https://github.com/inderps/spiritual-timers#readme"
+}
