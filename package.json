@@ -1,6 +1,6 @@
 {
   "name": "spiritual-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An extension of Javascript timers which always runs with actual speed inside browser regardless of whether the browser tab is active or not",
   "main": "lib/SpiritualTimer.js",
   "scripts": {
