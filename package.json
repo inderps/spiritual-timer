@@ -2,7 +2,7 @@
   "name": "spiritual-timer",
   "version": "1.0.0",
   "description": "An extension of Javascript timers which always runs with actual speed inside browser regardless of whether the browser tab is active or not",
-  "main": "index.js",
+  "main": "lib/SpiritualTimer.js",
   "scripts": {
     "compile": "./node_modules/.bin/babel -d lib/ src/",
     "prepublish": "npm run compile",
