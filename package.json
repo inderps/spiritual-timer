@@ -1,7 +1,7 @@
 {
   "name": "spiritual-timer",
-  "version": "1.0.1",
-  "description": "An extension of Javascript timers which always runs with actual speed inside browser regardless of whether the browser tab is active or not",
+  "version": "1.0.2",
+  "description": "An extension of Javascript timers which helps you in dealing with situation when your browser in not active and timers are slowed down",
   "main": "lib/SpiritualTimer.js",
   "scripts": {
     "compile": "./node_modules/.bin/babel -d lib/ src/",
@@ -20,7 +20,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/inderps/spiritual-timer/blob/master/LICENSE-MIT"
+      "url": "https://github.com/inderps/spiritual-timer/blob/master/LICENSE"
     }
   ],
   "bugs": {
